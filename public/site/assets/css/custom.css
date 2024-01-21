@@ -1,0 +1,49 @@
+/* -------------------------------------------------------------------------- */
+/*                                 Custom Styles                              */
+/* -------------------------------------------------------------------------- */
+
+.navbar.navbar-expand-lg {
+    border-bottom: 1px solid #EEE;
+}
+
+.post-list-thumb {
+    border-radius: 5px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    background-size: cover;
+}
+
+.home-articles {
+    padding: 0;
+}
+
+aside {
+    padding: 1.2rem 5px;
+    border: 1px dashed tomato;
+    border-radius: 8px;
+    background-color: rgba(240, 100, 33, 0.2);
+}
+
+aside .list-unstyled li a,
+.ulist li a,
+.card-show a {
+    color: tomato;
+}
+
+.pct96 {
+    width: 96%;
+}
+
+.hero-header-intro {
+    border: 5px solid #13B8EACC;
+    border-radius: 8px;
+    background-color: rgba(19, 184, 234, 0.70);
+}
+
+.author-show-avatar {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 3px solid #13B8EACC;
+    padding: 2px;
+}
